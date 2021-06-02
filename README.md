@@ -2,7 +2,7 @@
  First C++ project, revolving around file manipulation & string mutation in order to provide censorship
  
 # Input
- Input is divided onto 2 files: `doc.txt` and `sub.txt`, respectively representing the main text to censor (i.e. the uncensored document) and the words to censor.
+ Input is divided onto 2 files: `doc.txt` and `sub.txt`, respectively representing the main text to censor (i.e. the uncensored document) and the words to censor. In the test case used, say you're a Nilfgaardian general trying to cover up the story behind the [Battle of Brenna](https://witcher.fandom.com/wiki/Battle_of_Brenna).
 
  `doc.txt` looks something like this:
  
